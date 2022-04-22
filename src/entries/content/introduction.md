@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am in training at Digifab 
+En formation chez Digifab 
