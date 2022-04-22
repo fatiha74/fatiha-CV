@@ -1,12 +1,12 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
+    "name": "Fatiha Abdellaoui",
+    "occupation": "Developper",
+    "location": "Annemasse, FR",
+    "avatar": "",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "fatiha.abdellaoui74@gmail.com",
+    "telephone": "+336 12 98 31 29",
+    "website": "https://fatihaabdellaoui.dev",
     "skills": [
         "HTML",
         "CSS",
@@ -17,28 +17,25 @@
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "French",
             "level": "native"
         },
+        
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
+            "name": "English",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@fatiha74",
+            "url": "https://github.com/fatiha74"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "fatiha Abdellaoui",
+            "url": "https://www.linkedin.com/in/fatiha-abdellaoui"
         }
     ]
 }
