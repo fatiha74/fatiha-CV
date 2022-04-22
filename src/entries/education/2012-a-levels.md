@@ -1,7 +1,7 @@
 ---
-title: A-Levels
-organization: Saint Ipsum High School
-location: Graz, AT
-start: 2004-09-01
-end: 2012-07-01
+title: BAC Developpement
+organization: Lycee des glieres
+location: Annemasse, FR
+start: 2001
+end: 2002
 ---

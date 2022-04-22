@@ -1,7 +1,7 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: Licence Professional, IT
+organization: IUT A LYON 1
+location: Lyon, FR
+start: 2005
+end: 2006
 ---
