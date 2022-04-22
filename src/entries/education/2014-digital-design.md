@@ -1,7 +1,8 @@
 ---
-title: Licence Professional, IT
-organization: IUT A LYON 1
-location: Lyon, FR
-start: 2005
-end: 2006
+
+title: BTS, Webdevelopment
+organization: Greta
+location: Saint Julien, FR
+start: 2002-09-01
+end: 2005-06-28
 ---

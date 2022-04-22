@@ -1,7 +1,8 @@
 ---
-title: BAC Developpement
-organization: Lycee des glieres
-location: Annemasse, FR
-start: 2001-09-01
-end: 2002-06-29
+
+title: Licence Professional, IT
+organization: IUT A LYON 1
+location: Lyon, FR
+start: 2005-09-01
+end: 2006-06-28
 ---
