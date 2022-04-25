@@ -199,7 +199,7 @@ Supported properties are:
         </tr>
         <tr>
             <td><code>colors.primary</code></td>
-            <td>The HEX code of the primary brand color. defaults to blue <code>#005b96</code></td>
+            <td>The HEX code of the primary brand color. defaults to blue <code>#A0522D</code></td>
             <td>optional</td>
         </tr>
         <tr>
